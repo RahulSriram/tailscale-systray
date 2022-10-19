@@ -27,7 +27,7 @@ sudo apt-get install gcc libgtk-3-dev libayatana-appindicator3-dev
 ### Install app
 
 ```
-go install -v github.com/mattn/tailscale-systray@latest
+go install -v github.com/rahulsriram/tailscale-systray@latest
 ```
 
 At this point you can start it with `tailscale-systray`.
